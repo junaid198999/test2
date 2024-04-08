@@ -812,6 +812,13 @@
             "icon": "sicon-store",
             "path": "fullveedio",
             "fields": []
+        },
+        {
+            "key": "303d2b59-64cc-437c-b5f8-d47cd44f0a72",
+            "title": "fullveedio",
+            "icon": "sicon-store",
+            "path": "fullveedio.",
+            "fields": []
         }
     ],
     "support_url": null,
