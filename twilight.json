@@ -805,6 +805,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "e3a1673f-20c0-4063-873f-14f32ca29e77",
+            "title": "fullveedio",
+            "icon": "sicon-store",
+            "path": "fullveedio",
+            "fields": []
         }
     ],
     "support_url": null,
