@@ -835,7 +835,17 @@
             "title": "fullviedobaner",
             "icon": "sicon-store",
             "path": "home.fullviedobaner",
-            "fields": []
+            "fields": [
+                {
+                    "id": "titlebannar",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": null,
+                    "variant": "h1",
+                    "icon": "sicon-format-text"
+                }
+            ]
         }
     ],
     "support_url": null,
