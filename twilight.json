@@ -867,7 +867,47 @@
             "title": "fullviedobaner22",
             "icon": "sicon-store",
             "path": "home.fullviedobaner22",
-            "fields": []
+            "fields": [
+                {
+                    "id": "collection",
+                    "type": "collection",
+                    "format": "collection",
+                    "label": "Collection",
+                    "description": null,
+                    "labelHTML": null,
+                    "item_label": "coloocation",
+                    "icon": "sicon-list-add",
+                    "fields": [
+                        {
+                            "id": "collection.radio_list",
+                            "type": "items",
+                            "format": "radio-list",
+                            "label": "Radio List",
+                            "description": null,
+                            "labelHTML": null,
+                            "icon": "sicon-list",
+                            "selected": [],
+                            "options": [
+                                {
+                                    "label": null,
+                                    "value": "Value 1",
+                                    "key": "fb7367ec-6058-45de-9750-075f4c09fa8c"
+                                },
+                                {
+                                    "label": null,
+                                    "value": "Value 2",
+                                    "key": "66f113ec-01ef-4920-add0-fcc99c005646"
+                                }
+                            ],
+                            "source": "Manual",
+                            "required": false
+                        }
+                    ],
+                    "value": [],
+                    "minLength": 1,
+                    "maxLength": 5
+                }
+            ]
         }
     ],
     "support_url": null,
