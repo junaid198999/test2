@@ -861,6 +861,13 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "02555740-11d9-4f8a-9257-363f7766fa83",
+            "title": "fullviedobaner22",
+            "icon": "sicon-store",
+            "path": "home.fullviedobaner22",
+            "fields": []
         }
     ],
     "support_url": null,
