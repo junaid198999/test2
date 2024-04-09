@@ -829,6 +829,13 @@
                     "icon": "sicon-format-text"
                 }
             ]
+        },
+        {
+            "key": "d81524f5-6cb5-4fc0-8afa-cf7fba4816bd",
+            "title": "fullviedobaner",
+            "icon": "sicon-store",
+            "path": "home.fullviedobaner",
+            "fields": []
         }
     ],
     "support_url": null,
