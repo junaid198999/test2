@@ -818,7 +818,17 @@
             "title": "fullveedio",
             "icon": "sicon-store",
             "path": "fullveedio.",
-            "fields": []
+            "fields": [
+                {
+                    "id": "title",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": "testtext",
+                    "variant": "h1",
+                    "icon": "sicon-format-text"
+                }
+            ]
         }
     ],
     "support_url": null,
